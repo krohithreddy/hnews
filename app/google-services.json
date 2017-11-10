@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "585928314345",
+    "firebase_url": "https://hnews-36a48.firebaseio.com",
+    "project_id": "hnews-36a48",
+    "storage_bucket": "hnews-36a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585928314345:android:8bb028c3b607ccd1",
+        "android_client_info": {
+          "package_name": "com.example.rohithreddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585928314345-k41lcn0m5p5lm2j0audmrt8a6o7a16kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDctNFkI90iMNPnYsgI5pwWD5zzcBzdBNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585928314345:android:9b51740854a44ffd",
+        "android_client_info": {
+          "package_name": "com.example.rohithreddy.hnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585928314345-v2db0rr5rd1af7r8tc8d9anbsu9c168r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohithreddy.hnews",
+            "certificate_hash": "856a6e13b54e27633d3de7b482eba5b8f0ceac2a"
+          }
+        },
+        {
+          "client_id": "585928314345-k41lcn0m5p5lm2j0audmrt8a6o7a16kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDctNFkI90iMNPnYsgI5pwWD5zzcBzdBNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585928314345-k41lcn0m5p5lm2j0audmrt8a6o7a16kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
